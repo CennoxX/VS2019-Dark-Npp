@@ -1410,6 +1410,12 @@ Note:        I don't claim any ownership of this theme. It is merely a replica o
         <WidgetStyle name="Multi-edit carets color" styleID="0" fgColor="999999" />
         <WidgetStyle name="Edge colour" styleID="0" fgColor="888A85" bgColor="1E1E1E" fontSize="" fontStyle="0" />
         <WidgetStyle name="Line number margin" styleID="33" fgColor="2B91AF" bgColor="242424" fontName="" fontStyle="0" fontSize="" />
+        <WidgetStyle name="Bookmark margin" styleID="0" bgColor="242424" />
+        <WidgetStyle name="Change History margin" styleID="0" bgColor="242424" />
+        <WidgetStyle name="Change History modified" styleID="0" fgColor="EFF284" bgColor="EFF284" />
+        <WidgetStyle name="Change History revert modified" styleID="0" fgColor="5F95FA" bgColor="5F95FA" />
+        <WidgetStyle name="Change History revert origin" styleID="0" fgColor="5F95FA" bgColor="5F95FA" />
+        <WidgetStyle name="Change History saved" styleID="0" fgColor="577430" bgColor="577430" />
         <WidgetStyle name="Fold" styleID="0" fgColor="A5A5A5" bgColor="1E1E1E" fontStyle="0" fontSize="" />
         <WidgetStyle name="Fold margin" styleID="0" fgColor="1E1E1E" bgColor="1E1E1E" fontStyle="0" fontSize="" />
         <WidgetStyle name="Fold active" styleID="0" fgColor="A5A5A5" bgColor="1E1E1E" fontStyle="0" />
